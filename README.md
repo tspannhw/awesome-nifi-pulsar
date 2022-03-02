@@ -48,4 +48,6 @@ _Meetups, Conferences, Webinars._
 _Demos, Example Code, Example Apps_
 
 - [NFT](https://github.com/tspannhw/FLiPN-NFT) - Basic NFT Examples
+- [IoT](https://github.com/tspannhw/FLiPN-Demos) - IoT Demo
+- [SmartTransit](https://github.com/tspannhw/FLiP-Transit) - Smart Transit
 
