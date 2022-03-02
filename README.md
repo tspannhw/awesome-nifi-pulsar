@@ -45,7 +45,7 @@ _Meetups, Conferences, Webinars._
 
 ### Demos
 
-_Demos_
+_Demos, Example Code, Example Apps_
 
-- [NFT](https://github.com/tspannhw/FLiPN-NFT)NFT Examples
+- [NFT](https://github.com/tspannhw/FLiPN-NFT) - Basic NFT Examples
 
