@@ -35,6 +35,7 @@ _Libraries to manipulate bytecode programmatically._
 - [ApacheNiFiProcessor](https://streamnative.io/apache-nifi-connector/) - StreamNative Apache NiFi Processors for Apache Pulsar hub.
 - [PulsarProcessor](https://repo1.maven.org/maven2/io/streamnative/connectors/nifi-pulsar-nar/1.15.2/) - Main Pulsar Processor
 - [PulsarProcessor](https://repo1.maven.org/maven2/io/streamnative/connectors/nifi-pulsar-client-service-nar/1.15.2/) - Pulsar Client Service Processor
+- [Source](https://github.com/streamnative/pulsar-nifi-bundle) - Source Code
 
 ### Events
 
