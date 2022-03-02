@@ -18,8 +18,8 @@ A curated list of awesome links about utilizing Apache NiFi with Apache Pulsar.
 
 _Project, Cloud, Platform, Application information._
 
-- [Cloudera](https://docs.cloudera.com/cdf-datahub/7.2.14/release-notes/topics/cdf-datahub-whats-new-flow-management.html)
-- [Cloudera](https://docs.cloudera.com/cdf-datahub/7.2.14/release-notes/topics/cdf-datahub-supported-partner-components.html)
+- [Cloudera What's New in Flow Management](https://docs.cloudera.com/cdf-datahub/7.2.14/release-notes/topics/cdf-datahub-whats-new-flow-management.html)
+- [Cloudera CDF Datahub Supported Partner Components](https://docs.cloudera.com/cdf-datahub/7.2.14/release-notes/topics/cdf-datahub-supported-partner-components.html)
 
 ### Blogs
 
