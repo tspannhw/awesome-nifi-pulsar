@@ -21,12 +21,14 @@ _Project, Cloud, Platform, Application information._
 - [Cloudera What's New in Flow Management](https://docs.cloudera.com/cdf-datahub/7.2.14/release-notes/topics/cdf-datahub-whats-new-flow-management.html)
 - [Cloudera CDF Datahub Supported Partner Components](https://docs.cloudera.com/cdf-datahub/7.2.14/release-notes/topics/cdf-datahub-supported-partner-components.html)
 
+
 ### Blogs
 
 _Various articles, blogs._
 
 - [DataInMotion](https://www.datainmotion.dev/2021/11/producing-and-consuming-pulsar-messages.html) - The basics of producing and consuming topics.
 - [FLiPNStack](https://medium.com/@tspann/streaming-nft-analytics-with-apache-nifi-and-apache-pulsar-flipn-stack-6c1d944d1087) - Using NiFi with Pulsar for NFT / REST ingest.
+- [StreamNative+Cloudera](https://streamnative.io/blog/release/2022-03-09-cloudera-and-streamnative-announce-the-integration-of-apache-nifi-and-apache-pulsar/)
 
 ### Software
 
