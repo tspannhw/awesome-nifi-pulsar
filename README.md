@@ -32,6 +32,7 @@ _Various articles, blogs._
 - [ClouderaCommunity](https://community.cloudera.com/t5/Community-Articles/Using-Apache-NiFi-with-Apache-Pulsar-for-Streaming/ta-p/337891)
 - [Youtube](https://youtu.be/LZG9IU6O78A)
 - [DataNami](https://www.datanami.com/2022/03/09/code-for-pulsar-nifi-tie-up-now-open-source/)
+- [NewStack](https://thenewstack.io/pulsar-nifi-better-together-for-messaging-streaming/)
 
 ### Software
 
