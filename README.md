@@ -29,6 +29,9 @@ _Various articles, blogs._
 - [DataInMotion](https://www.datainmotion.dev/2021/11/producing-and-consuming-pulsar-messages.html) - The basics of producing and consuming topics.
 - [FLiPNStack](https://medium.com/@tspann/streaming-nft-analytics-with-apache-nifi-and-apache-pulsar-flipn-stack-6c1d944d1087) - Using NiFi with Pulsar for NFT / REST ingest.
 - [StreamNative+Cloudera](https://streamnative.io/blog/release/2022-03-09-cloudera-and-streamnative-announce-the-integration-of-apache-nifi-and-apache-pulsar/)
+- [ClouderaCommunity](https://community.cloudera.com/t5/Community-Articles/Using-Apache-NiFi-with-Apache-Pulsar-for-Streaming/ta-p/337891)
+- [Youtube](https://youtu.be/LZG9IU6O78A)
+- [DataNami](https://www.datanami.com/2022/03/09/code-for-pulsar-nifi-tie-up-now-open-source/)
 
 ### Software
 
